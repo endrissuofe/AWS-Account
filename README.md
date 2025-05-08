@@ -1,7 +1,7 @@
 # AWS Account Creation Mini Project
 
 ## Overview
-I'll guide you through creating your own Amazon Web Services (AWS) account. I've included screenshots and detailed steps to help you establish your AWS presence with confidence.
+This is a guide that will walk you through creating your own Amazon Web Services (AWS) account. I've included screenshots and detailed steps to help you establish your AWS presence with confidence.
 
 ## Introduction to Cloud Computing
 
